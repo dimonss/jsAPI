@@ -10,12 +10,17 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "DiCh",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
+    "express-validator": "^6.10.0",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.18",
+    "nodemon": "^2.0.6",
+    "pg": "^8.4.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {

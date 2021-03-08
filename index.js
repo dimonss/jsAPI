@@ -1,7 +1,7 @@
-import express from "express"
-import mongoose from "mongoose"
+import express from 'express'
+import mongoose from 'mongoose'
 import router from "./router.js"
-import {DB_URL} from "./DBconnect"
+import {DB_URL} from "./dataDBConnect.js"
 import fileUpload from "express-fileupload"
 
 const PORT = 5000;

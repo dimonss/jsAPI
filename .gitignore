@@ -6,7 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-DBconnect.js
+dataDBConnect.js
 /.idea/
 /node_modules/
 /static/
